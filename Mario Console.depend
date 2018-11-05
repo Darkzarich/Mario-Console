@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1449453234 source:d:\programming\Ñ++\game\mario console\rendersystem.cpp
+	"renderSystem.h"
+	<stdio.h>
+	<windows.h>
+
+1449451931 d:\programming\Ñ++\game\mario console\rendersystem.h
+	"consoleColor.h"
+
+1448829717 d:\programming\Ñ++\game\mario console\consolecolor.h
+
+1450629102 source:d:\programming\Ñ++\game\mario console\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"renderSystem.h"
+	"input.h"
+	"level.h"
+	"unitData.h"
+
+1449453803 d:\programming\Ñ++\game\mario console\input.h
+	<windows.h>
+
+1450627012 d:\programming\Ñ++\game\mario console\level.h
+	"renderSystem.h"
+
+1450303542 d:\programming\Ñ++\game\mario console\unitdata.h
+	"unitType.h"
+	"unitOrder.h"
+
+1450625645 d:\programming\Ñ++\game\mario console\unittype.h
+	"level.h"
+
+1450605311 d:\programming\Ñ++\game\mario console\unitorder.h
+
